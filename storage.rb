@@ -1,12 +1,13 @@
 class Storage
   attr_reader :objects
+  def fung 
 
+  end
+  def func
+     a = 100000
+  end 
   def initialize
     @objects = []
-  end
-
-  def empty?
-    @objects.empty?
   end
 
   def add(obj)
