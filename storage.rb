@@ -1,6 +1,6 @@
 class Storage
   attr_reader :objects
-  def fung 
+  def fung112 
 
   end
   def func
